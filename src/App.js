@@ -1,7 +1,7 @@
 import './App.css';
 import { TextField } from '@mui/material';
 import React, { useState } from 'react';
-import axiosnpm install -g heroku  from "axios";
+import axios from "axios";
 
 
 
